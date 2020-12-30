@@ -1,0 +1,4 @@
+19:51:25.333 [TestNG-tests-1] INFO  resources.Base - restricted user
+19:51:26.398 [TestNG-tests-1] INFO  resources.Base - sucessfully ran home page 
+19:51:28.719 [TestNG-tests-1] INFO  resources.Base - nonrestricted user
+19:51:29.684 [TestNG-tests-1] INFO  resources.Base - sucessfully ran home page 

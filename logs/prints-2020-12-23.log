@@ -1,0 +1,7 @@
+19:43:00.243 [TestNG-tests-1] INFO  resources.Base - restricted user
+19:43:01.746 [TestNG-tests-1] INFO  resources.Base - sucessfully ran home page 
+19:43:04.426 [TestNG-tests-1] INFO  resources.Base - nonrestricted user
+19:43:05.531 [TestNG-tests-1] INFO  resources.Base - sucessfully ran home page 
+19:51:02.579 [TestNG-tests-2] INFO  resources.Base - driver is initialized
+19:51:20.503 [TestNG-tests-3] INFO  resources.Base - The Header title is same as expected result
+19:51:22.921 [TestNG-tests-2] INFO  resources.Base - navigation is displayed
